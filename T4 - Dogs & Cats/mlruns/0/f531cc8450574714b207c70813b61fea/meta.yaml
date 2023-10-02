@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/el_he/RNAs/T4%20-%20Dogs%20%26%20Cats/mlruns/0/f531cc8450574714b207c70813b61fea/artifacts
+end_time: 1696288246371
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f531cc8450574714b207c70813b61fea
+run_name: rebellious-sheep-174
+run_uuid: f531cc8450574714b207c70813b61fea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696288110263
+status: 3
+tags: []
+user_id: el_he

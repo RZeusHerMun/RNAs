@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/el_he/RNAs/T4%20-%20Dogs%20%26%20Cats/mlruns/0/019bb89460b2405faf3377577ecd298e/artifacts
+end_time: 1696288760121
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 019bb89460b2405faf3377577ecd298e
+run_name: welcoming-fly-116
+run_uuid: 019bb89460b2405faf3377577ecd298e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696288610960
+status: 3
+tags: []
+user_id: el_he

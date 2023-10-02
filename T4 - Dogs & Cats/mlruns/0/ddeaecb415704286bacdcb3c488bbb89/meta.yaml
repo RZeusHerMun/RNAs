@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/el_he/RNAs/T4%20-%20Dogs%20%26%20Cats/mlruns/0/ddeaecb415704286bacdcb3c488bbb89/artifacts
+end_time: 1696053955439
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ddeaecb415704286bacdcb3c488bbb89
+run_name: calm-hawk-518
+run_uuid: ddeaecb415704286bacdcb3c488bbb89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696053652927
+status: 3
+tags: []
+user_id: el_he
